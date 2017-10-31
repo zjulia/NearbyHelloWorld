@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NearbyHelloWorld</string>
+    <string name="nearby_api_key">AIzaSyA1dVJ91BoAS8xCxCco2dG5kVi27VBjmWY</string>
+    <string name="sha1_key">D6:04:D7:0E:12:1B:63:92:BD:94:3F:11:30:6E:01:4E:C4:DE:8D:D0</string>
+</resources>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/a092b9a2edc8ab84519cb96ea961512a96aa4f98/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/admin/Documents/Android/WeLens/NearbyHelloWorld/app/build/intermediates/pre-dexed/release/classes_a3a05c4dd6e414ca9da2cfe5b1db8f797ee0920f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/a092b9a2edc8ab84519cb96ea961512a96aa4f98/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/admin/Documents/Android/WeLens/NearbyHelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a3a05c4dd6e414ca9da2cfe5b1db8f797ee0920f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/a1b63d27cdf6f24106f338f63674351222a3f4ca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/admin/Documents/Android/WeLens/NearbyHelloWorld/app/build/intermediates/pre-dexed/release/classes_1988d1aacde07c5bb7710e6adf217a37e135270b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/admin/Documents/Android/WeLens/NearbyHelloWorld/app/build/intermediates/pre-dexed/release/support-annotations-25.3.1_f37e95579d4a3f3552050a9363750900bf28d866.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/db81941934b0a84317d6e6194b46a375a78ded6a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/admin/Documents/Android/WeLens/NearbyHelloWorld/app/build/intermediates/pre-dexed/release/classes_25fc80e8eafca21a3f63991d0ee2d2f44b8e0bf5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Documents/Android/WeLens/NearbyHelloWorld/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bb0a7a722eb2c3bedf5dd2b380ff2439978eb283">
+        <dex dex="/Users/admin/Documents/Android/WeLens/NearbyHelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_83b6d43778c52a84bcfdaed977891fce91fecec4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Documents/Android/WeLens/NearbyHelloWorld/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/admin/Documents/Android/WeLens/NearbyHelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8c945562e73a4e77995a0408af8ba7ed74769aeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/ddb63f4bc5d863fb1312fbfdbcecf8ebdc00ba7e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="/Users/admin/Documents/Android/WeLens/NearbyHelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fba21a1ced9eeac153f010544250a928ca2af7eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/71940581cca00f0331641b623f596e3304523014/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/admin/Documents/Android/WeLens/NearbyHelloWorld/app/build/intermediates/pre-dexed/release/classes_b5866f9a019672c0400e7ae9507c7fa905cb6ceb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/ddb63f4bc5d863fb1312fbfdbcecf8ebdc00ba7e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="/Users/admin/Documents/Android/WeLens/NearbyHelloWorld/app/build/intermediates/pre-dexed/release/classes_fba21a1ced9eeac153f010544250a928ca2af7eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/e230e2050bee1d556e3a70db18fc4d29b02e8c25/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/admin/Documents/Android/WeLens/NearbyHelloWorld/app/build/intermediates/pre-dexed/release/classes_2f4f65b08dc4d935e5523cb58f687b339042ea91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/f2b4ab9943e6a32bdbd0aa53d51a2060485f247c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/admin/Documents/Android/WeLens/NearbyHelloWorld/app/build/intermediates/pre-dexed/release/classes_41336efff45e929f31c361d35870000b2b3b4323.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/133174e366f7d680a740ac98025faec6f2b1acc4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/admin/Documents/Android/WeLens/NearbyHelloWorld/app/build/intermediates/pre-dexed/release/classes_08980cfb1ef5a4d034b8ad0ad9457f8ef81a8360.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/admin/Documents/Android/WeLens/NearbyHelloWorld/app/build/intermediates/pre-dexed/release/constraint-layout-solver-1.0.2_1d7f3ea28b5d749dc1e4f9a2bf614f323969fb2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/c49403e16a42d0127598c6d89fe6804f41200a68/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/admin/Documents/Android/WeLens/NearbyHelloWorld/app/build/intermediates/pre-dexed/release/classes_b8b83748acd85a95976a9124d6e4fe852b27785e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/7a92f3469126be55836314c5adb72f0a951b670f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/admin/Documents/Android/WeLens/NearbyHelloWorld/app/build/intermediates/pre-dexed/release/classes_1713ed520faa4b8530287e58cf1d5490806c8225.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/6feccf36cd4fa3f735e9684321b4c1bf3f3ae15f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/admin/Documents/Android/WeLens/NearbyHelloWorld/app/build/intermediates/pre-dexed/release/classes_e7c5674b42de0454d474cc8b1070f6452262c7ea.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/e230e2050bee1d556e3a70db18fc4d29b02e8c25/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/admin/Documents/Android/WeLens/NearbyHelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f4f65b08dc4d935e5523cb58f687b339042ea91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.android/build-cache/6feccf36cd4fa3f735e9684321b4c1bf3f3ae15f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/admin/Documents/Android/WeLens/NearbyHelloWorld/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e7c5674b42de0454d474cc8b1070f6452262c7ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/13ff24b4892334e48108aeed3123b127db1490b6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/admin/Documents/Android/WeLens/NearbyHelloWorld/app/build/intermediates/pre-dexed/release/classes_9bc2bc82eeb2d5c74de2b6a06e3aedc87ffbd0ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/f6d1eda3ab8e18aa56bff7f3aa4c4190255185ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/admin/Documents/Android/WeLens/NearbyHelloWorld/app/build/intermediates/pre-dexed/release/classes_5947092c16151eb717f0378d35cf2e4eb480feb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/acae75d7a9870015c3fb45da3782b70c49cf9a73/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/admin/Documents/Android/WeLens/NearbyHelloWorld/app/build/intermediates/pre-dexed/release/classes_e8cc10dd6e7daa475be8237c7f8c2bd224142f70.jar" />
+    </item>
+
+</items>
